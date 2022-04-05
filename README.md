@@ -1,30 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is an app developed to help me practice both app design and gain a better understanding of the Kotlin language
 
-{Provide a description of your app.  Describe how to use the app.}
+This is an app designed and targeted towards pregnant women. It is intended to help women keep track of their pregnancy and how many weeks pregnant they are by taking their due date and using it to calculate how far along they are. With this information the app also displays a developmental fact about their baby and the size of their baby compared to fruit based on how many weeks pregnant they are. 
 
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]( https://youtu.be/Mo-y-AFa-h0)
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
+The environment I used to develop this app is Android Studio Code with a Android API 32 Google Play Emulator
 
-{Describe the programming language that you used and any libraries.}
+The programming language used is Kotlin.  It is run using the java.time.LocalDate library to be able to use dates and the java.time.temporal.ChronoUnit library which allows the program to run a function to find the number of days between two dates.
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [kotlinlang.org]( https://kotlinlang.org/docs/functions.html)
+* [programiz.com]( https://www.programiz.com/kotlin-programming/if-expression)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Be able to have real user input of the date
+* Add more features to the app such as, a way to keep track of weight and doctors’ appointments
+* Add a way to save the woman’s due date in the app so it continues to keep track of their pregnancy week by week without having to re-enter their due date every time they open the app.
+![image](https://user-images.githubusercontent.com/91647877/161859794-72c19081-b413-4fae-9000-682df744f383.png)
