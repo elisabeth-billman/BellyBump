@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PregnancyTrackerAppFinal</string>
+    <string name="enter_your_due_date">Enter Your Due Date</string>
+    <string name="enter">ENTER</string>
+    <string name="mother_and_baby">mother and baby</string>
+    <string name="helloworld">hello world</string>
+    <string name="hello_world">hello world</string>
+    <string name="empty" />
+</resources>
