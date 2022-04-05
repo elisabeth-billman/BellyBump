@@ -23,4 +23,4 @@ The programming language used is Kotlin.  It is run using the java.time.LocalDat
 * Be able to have real user input of the date
 * Add more features to the app such as, a way to keep track of weight and doctors’ appointments
 * Add a way to save the woman’s due date in the app so it continues to keep track of their pregnancy week by week without having to re-enter their due date every time they open the app.
-![image](https://user-images.githubusercontent.com/91647877/161859794-72c19081-b413-4fae-9000-682df744f383.png)
+
