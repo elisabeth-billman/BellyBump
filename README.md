@@ -10,9 +10,9 @@ More than just a tracker, the app enriches the experience by providing users wit
 
 To make the experience even more memorable, the app creatively compares the baby's size to various fruits corresponding to the current week of pregnancy. This visual representation adds a delightful dimension to the journey, making it not only informative but visually engaging.
 
-![image1](image1.png)
+![image1](image2.png)
 
-![image2](image2.png)
+![image2](image1.png)
 
 # Development Environment
 
