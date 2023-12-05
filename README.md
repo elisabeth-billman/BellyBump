@@ -1,7 +1,5 @@
 # Overview
 
-This app is my way of improving my app design and Kotlin programming skills.
-
 Tailored exclusively for pregnant women, this app transcends conventional utility. Its primary aim is to empower expectant mothers by offering an intuitive solution to effortlessly monitor and cherish their pregnancy journey.
 
 The app simplifies the process of tracking pregnancy progress by entering the due date.
